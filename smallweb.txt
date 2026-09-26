@@ -34105,6 +34105,8 @@ https://wolf.nereid.pl/index.xml
 https://wolfcatworkshop.com/feed.xml
 https://wolfesoftware.com/blog/rss.xml
 https://wolfgang-ziegler.com/blog/rss
+https://nonschooling.wordpress.com/feed/
+https://anugunjblog.wordpress.com/feed/
 https://wolfgang.gassler.org/index.xml
 https://wolfgangschuster.wordpress.com/feed/
 https://wolfgirl.dev/blog/rss.xml
@@ -34162,6 +34164,8 @@ https://wordsinspace.net/rss.xml
 https://wordsisig.bearblog.dev/feed/
 https://wordsongames.bearblog.dev/feed/
 https://wordstar.org/index.php?format=feed&type=atom
+https://thebrokencap.wordpress.com/feed/
+https://
 https://wordsundermyname.wordpress.com/feed/
 https://wordswords.github.io/index.xml
 https://wordtrak.com/blog/feed.xml
